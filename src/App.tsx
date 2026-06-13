@@ -8,7 +8,7 @@ const ASSETS = {
   detailSos: '/src/assets/images/prahari_detail_sos_1781336873979.jpg',
   detailCamera: '/src/assets/images/prahari_detail_camera_1781336891214.jpg',
   render: '/src/assets/images/prahari_render_1781336908914.jpg',
-founder: '/src/assets/images/vaasu_picture.png',
+founder: 'https://raw.githubusercontent.com/vaasu-kohli/prahari-grid-system/main/src/assets/images/vaasu_picture.png',
 };
 const FadeIn = ({ children, delay = 0, className = "" }: { children: React.ReactNode, delay?: number, className?: string }) => (
   <motion.div
