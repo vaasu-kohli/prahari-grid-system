@@ -1,0 +1,6 @@
+{
+  "name": "PRAHARI Grid Systems",
+  "description": "Smart urban infrastructure platform combining public safety, emergency assistance, and digital communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
