@@ -218,7 +218,11 @@ export default function App() {
       <section className="py-24 bg-gray-50">
         <div className="max-w-7xl mx-auto px-6">
           <FadeIn className="bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-gray-100 flex flex-col md:flex-row items-center gap-8 max-w-4xl mx-auto">
-            <img src={ASSETS.founder} alt="Vasu Kohli" className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border border-gray-100 flex-shrink-0" referrerPolicy="no-referrer" />
+            <img
+              src="https://raw.githubusercontent.com/vaasu-kohli/prahari-grid-system/main/src/assets/images/vaasu_picture.png"
+              alt="Vasu Kohli"
+              className="w-40 h-40 border-4 border-red-500"
+              />
             <div>
               <div className="mb-2">
                 <h4 className="text-2xl font-heading font-bold text-gray-900">Vasu Kohli</h4>
